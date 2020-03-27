@@ -35,6 +35,6 @@ Tag v1.2.5 | Tag v5.4.0_cm7 | Tag v1.16.0 (and later, if any, till next tag)
 The full **STM32CubeF7** MCU package is available [here](https://github.com/STMicroelectronics/STM32CubeF7).
 
 ## Troubleshooting
-If you have any issue with the **Software content** of this repository, you can file an issue into the firmware repository [STM32CubeF7](https://github.com/STMicroelectronics/STM32CubeF7/issues/new/choose).
+If you have any issue with the **Software content** of this repository, you can [file an issue on Github](https://github.com/STMicroelectronics/cmsis_device_f7/issues/new).
 
 For any other question related to the product, the tools, the environment, you can submit a topic on the [ST Community/STM32 MCUs forum](https://community.st.com/s/group/0F90X000000AXsASAW/stm32-mcus).
