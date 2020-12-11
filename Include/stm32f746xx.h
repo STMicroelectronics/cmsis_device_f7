@@ -477,7 +477,8 @@ typedef struct
   __IO uint32_t PTPTTLR;
   __IO uint32_t RESERVED8;
   __IO uint32_t PTPTSSR;
-  uint32_t      RESERVED9[565];
+  __IO uint32_t PTPPPSCR;
+  uint32_t      RESERVED9[564];
   __IO uint32_t DMABMR;
   __IO uint32_t DMATPDR;
   __IO uint32_t DMARPDR;
