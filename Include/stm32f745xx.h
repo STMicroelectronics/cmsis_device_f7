@@ -15222,6 +15222,11 @@ typedef struct
 #define ETH_PTPTSSR_TSSO_Msk                          (0x1UL << ETH_PTPTSSR_TSSO_Pos) /*!< 0x00000010 */
 #define ETH_PTPTSSR_TSSO                              ETH_PTPTSSR_TSSO_Msk     /* Time stamp seconds overflow */
 
+/* Bit definition for Ethernet PTP PPS Control Register */
+#define ETH_PTPPPSCR_PPSFREQ_Pos                      (0U)
+#define ETH_PTPPPSCR_PPSFREQ_Msk                      (0x0FUL << ETH_PTPPPSCR_PPSFREQ_Pos) /*!< 0x0000000F */
+#define ETH_PTPPPSCR_PPSFREQ                          ETH_PTPPPSCR_PPSFREQ_Msk    /*  PPS frequency selection */
+
 /******************************************************************************/
 /*                 Ethernet DMA Registers bits definition                     */
 /******************************************************************************/
