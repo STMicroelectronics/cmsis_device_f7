@@ -15660,6 +15660,9 @@ typedef struct
 /*                                                                            */
 /******************************************************************************/
 /* Bit definition for Ethernet MAC Control Register register */
+#define ETH_MACCR_CSTF_Pos                            (25U)
+#define ETH_MACCR_CSTF_Msk                            (0x1UL << ETH_MACCR_CSTF_Pos) /*!< 0x02000000 */
+#define ETH_MACCR_CSTF                                ETH_MACCR_CSTF_Msk       /* CRC stripping for Type frames */
 #define ETH_MACCR_WD_Pos                              (23U)
 #define ETH_MACCR_WD_Msk                              (0x1UL << ETH_MACCR_WD_Pos) /*!< 0x00800000 */
 #define ETH_MACCR_WD                                  ETH_MACCR_WD_Msk         /* Watchdog disable */
