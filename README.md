@@ -1,6 +1,6 @@
 # STM32CubeF7 CMSIS Device MCU Component
 
-![latest tag](https://img.shields.io/github/v/tag/STMicroelectronics/stm32f7xx_hal_driver.svg?color=brightgreen)
+![latest tag](https://img.shields.io/github/v/tag/STMicroelectronics/cmsis_device_f7.svg?color=brightgreen)
 
 ## Overview
 
